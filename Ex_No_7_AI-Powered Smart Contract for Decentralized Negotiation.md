@@ -106,15 +106,21 @@ If the offer is too low, the contract suggests a counteroffer.
 
 # High-Level Overview:
 First-of-its-kind AI-powered pricing contract.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1493497-3ea4-404b-8ffc-eadae2c488dd" />
+
 
 
 Mimics real-world price negotiations using dynamic on-chain pricing.
+![Uploading image.png…]()
 
 
 Can be extended to AI oracles for real-time market data.
+<img width="1920" height="1200" alt="Screenshot 2025-11-13 090318" src="https://github.com/user-attachments/assets/ef9f590b-30e7-4f21-8382-3c5c17703bb1" />
 
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
+<img width="1920" height="1200" alt="Screenshot 2025-11-13 090412" src="https://github.com/user-attachments/assets/c4a7685c-75e5-4507-ba93-b20255474f92" />
+
 
 # RESULT:
 
